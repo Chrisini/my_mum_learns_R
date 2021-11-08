@@ -27,3 +27,4 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 ```javascript
 BiocManager::install("limma")
 ```
+outcome: package ‘limma’ successfully unpacked and MD5 sums checked
