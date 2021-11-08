@@ -9,6 +9,9 @@
 ```javascript
 if (!requireNamespace("BiocManager", quietly = TRUE))
     install.packages("BiocManager")
-
+```
+```javascript
 BiocManager::install("GSVA")
 ```
+outcome: installation of package ‘glue’ had non-zero exit status
+
