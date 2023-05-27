@@ -1,6 +1,6 @@
 # Hi Mum
 
-This is a repository, just for you. It should teach you R, so you can finally finish your PhD.
+This is a repository, just for you. It should teach you R, so you can finally finish your PhD in biotechnology.
 
 
 ## Random Notes:
